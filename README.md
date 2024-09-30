@@ -144,9 +144,13 @@ The dataset used in this project contains information about credit card users. H
 
 The analysis revealed three distinct user segments:
 
-1. Lower-income or conservative credit users
-2. Moderate balance users with high cash advance frequency
-3. High-income, high-spending users
+1. **Cluster 1 - `Conservative Users`** : This group uses credit conservatively and minimally. They have lower balances, make fewer purchases, and generally seem to be cautious or limited in their credit card usage.
+
+
+2. **Cluster 2 - `Borrowers Users`** : This cluster frequently carries balances and uses cash advances more often, suggesting they use credit cards as a borrowing tool, possibly for short-term financing needs.
+
+
+3. **Cluster 3 - `Power Users`** : This group maximizes their credit card usage with high limits, frequent large purchases, and high payment amounts. They appear to be confident and active credit card users, possibly leveraging rewards or using credit for convenience rather than necessity.
 
 These insights can be leveraged for targeted marketing campaigns and product development.
 
