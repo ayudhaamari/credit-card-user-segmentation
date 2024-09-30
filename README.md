@@ -1,6 +1,8 @@
 # Credit Card User Segmentation 💳📊
 
-<img src="images/image-1.jpg">
+<p align="center">
+  <img src="images/image-1.jpg">
+</p>
 
 ## 📌 Table of Contents
 - [Overview](#overview)
@@ -80,40 +82,63 @@ The dataset used in this project contains information about credit card users. H
 
 - Handled missing values
 - Removed outliers using the Interquartile Range (IQR) method
-- Normalized the data using log transformation
+- Normalized the data
+- etc ...
 
 ## 📊 Exploratory Data Analysis (EDA)
 
 - Analyzed the distribution of each feature
 - Identified correlations between features
 - Visualized key insights using heatmaps and box plots
+- etc ...
 
-<img src="images/eda.png" width="500">
+<p align="center">
+  <img src="images/eda.png" width="500">
+</p>
+
+<p align="center"><em>Example of Heatmap of the correlation matrix</em></p>
 
 ## 🎯 Feature Selection
 
 - Used correlation analysis to identify highly correlated features
 - Selected relevant features for clustering
+- etc ...
 
 ## 📉 Dimensionality Reduction
 
 - Applied Principal Component Analysis (PCA) to reduce the dimensionality of the dataset
 - Determined the optimal number of components to retain
+- Visualized the cumulative explained variance ratio to select the number of components
+
+<p align="center">
+  <img src="images/pca.png">
+</p>
+
+<p align="center"><em>Cumulative Explained Variance Ratio vs. Number of PCA Components</em></p>
 
 ## 🧮 Clustering
 
 - Used the Elbow method and Silhouette analysis to determine the optimal number of clusters
 - Applied K-means clustering algorithm with k=3
 - Initialized centroids using k-means++ method
+- etc ...
 
-<img src="images/elbow-method.png">
+<p align="center">
+  <img src="images/elbow-method.png">
+</p>
+
+<p align="center"><em>Elbow Method for determining optimal number of clusters</em></p>
 
 ## 📏 Model Evaluation
 
 - Evaluated the clustering results using silhouette score
 - Visualized the clusters using box plots for each feature
 
-<img src="images/silouhette.png">
+<p align="center">
+  <img src="images/silouhette.png">
+</p>
+
+<p align="center"><em>Example of Silhouette analysis for cluster evaluation</em></p>
 
 ## 📈 Results
 
@@ -125,7 +150,11 @@ The analysis revealed three distinct user segments:
 
 These insights can be leveraged for targeted marketing campaigns and product development.
 
-<img src="images/output.png">
+<p align="center">
+  <img src="images/output.png">
+</p>
+
+<p align="center"><em>Visualization of user segments</em></p>
 
 ---
 
