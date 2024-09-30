@@ -5,17 +5,17 @@
 </p>
 
 ## 📌 Table of Contents
-- [Overview](##overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Feature Selection](#feature-selection)
-- [Dimensionality Reduction](#dimensionality-reduction)
-- [Clustering](#clustering)
-- [Model Evaluation](#model-evaluation)
-- [Results](#results)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Installation](#️-installation)
+- [Usage](#-usage)
+- [Data Preprocessing](#-data-preprocessing)
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+- [Feature Selection](#-feature-selection)
+- [Dimensionality Reduction](#-dimensionality-reduction)
+- [Clustering](#-clustering)
+- [Model Evaluation](#-model-evaluation)
+- [Results](#-results)
 
 ## 🔍 Overview
 
